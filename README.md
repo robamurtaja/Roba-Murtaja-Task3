@@ -25,7 +25,7 @@ The website is fully **responsive** and works seamlessly on desktop, tablet, and
 1. Ensure all files are organized as follows:
 -  index.html
 -  css/
--   tyles.css
+-  styles.css
 -  js/
 - script.js
 - images/
