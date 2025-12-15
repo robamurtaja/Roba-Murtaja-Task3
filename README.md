@@ -16,7 +16,7 @@ The website is fully **responsive** and works seamlessly on desktop, tablet, and
 ## Project Files
 1. `index.html` : The main HTML file of the website  
 2. `/css/styles.css` : CSS file containing all styles and responsive rules  
-3. `/js/script.js` : JavaScript file managing page navigation (`showPage`) and rendering courses dynamically (`renderCourses`)  
+3. `/js/main.js` : JavaScript file managing page navigation (`showPage`) and rendering courses dynamically (`renderCourses`)  
 4. `/images/` : Folder containing all images used in the website  
 
 ---
@@ -27,7 +27,7 @@ The website is fully **responsive** and works seamlessly on desktop, tablet, and
 -  css/
 -  styles.css
 -  js/
-- script.js
+- main.js
 - images/
 - all project images
 2. Open `index.html` in any modern web browser (Chrome, Firefox, Edge).  
