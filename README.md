@@ -23,14 +23,13 @@ The website is fully **responsive** and works seamlessly on desktop, tablet, and
 
 ## How to Run the Project
 1. Ensure all files are organized as follows:
-│
-├─ index.html
-├─ css/
-│ └─ styles.css
-├─ js/
-│ └─ script.js
-└─ assets/
-└─ all project images
+-  index.html
+-  css/
+-   tyles.css
+-  js/
+- script.js
+- images/
+- all project images
 2. Open `index.html` in any modern web browser (Chrome, Firefox, Edge).  
 3. Use the **Navbar** to navigate between pages.  
 4. Browse courses, filter by category, or click **"View Course"** to see course details.
